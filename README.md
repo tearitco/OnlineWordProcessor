@@ -1,3 +1,3 @@
 # Online-Word-Processor
 
-<img src="React.gif" />
+<img src="React_APP_GIF.gif" />
